@@ -1,0 +1,7 @@
+pandas
+numpy
+scikit-learn
+joblib
+plotly
+dash >= 2.10 # Need a recent version for better features
+dash-bootstrap-components >= 1.4 # For layout and styling

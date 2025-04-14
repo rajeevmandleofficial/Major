@@ -1,0 +1,323 @@
+2025-04-03 23:57:27,206 - TBF System - INFO - Initializing Streamlit session state...
+2025-04-03 23:57:27,595 - TBF System - INFO - Historical data not found. Generating new data...
+2025-04-03 23:57:28,814 - TBF System - INFO - Models loaded/trained successfully.
+2025-04-04 00:02:15,148 - TBF System - INFO - Initializing Streamlit session state...
+2025-04-04 00:02:15,650 - TBF System - INFO - Models loaded/trained successfully.
+2025-04-04 00:02:30,423 - TBF System - INFO - Monitoring Started by user.
+2025-04-04 00:03:26,550 - TBF System - INFO - Monitoring Stopped by user.
+2025-04-04 00:08:00,152 - TBF System - INFO - Initializing Streamlit session state...
+2025-04-04 00:08:00,624 - TBF System - INFO - Models loaded/trained successfully.
+2025-04-04 00:08:15,602 - TBF System - INFO - Monitoring Started by user.
+2025-04-04 00:08:27,779 - TBF System - INFO - Monitoring Stopped by user.
+2025-04-04 00:11:30,958 - TBF System - INFO - Initializing Streamlit session state...
+2025-04-04 00:11:31,465 - TBF System - INFO - Models loaded/trained successfully.
+2025-04-04 00:11:38,979 - TBF System - INFO - Monitoring Started by user.
+2025-04-04 00:11:56,769 - TBF 1 - INFO - RUL Status changed to Warning (21.6 days)
+2025-04-04 00:11:59,600 - TBF 1 - INFO - RUL Status changed to Critical (11.0 days)
+2025-04-04 00:15:55,873 - TBF System - INFO - Initializing Streamlit session state...
+2025-04-04 00:15:56,522 - TBF System - INFO - Models loaded/trained successfully.
+2025-04-04 00:16:05,627 - TBF System - INFO - Monitoring Started by user.
+2025-04-04 00:16:05,807 - TBF 1 - INFO - RUL Status changed to Critical (10.8 days)
+2025-04-04 00:16:45,774 - TBF System - INFO - Initializing Streamlit session state...
+2025-04-04 00:16:45,874 - TBF System - INFO - Models loaded/trained successfully.
+2025-04-04 00:17:26,148 - TBF 3 - INFO - RUL Status changed to Warning (23.6 days)
+2025-04-04 00:17:27,661 - TBF 2 - INFO - RUL Status changed to Warning (23.6 days)
+2025-04-04 00:17:31,184 - TBF 3 - INFO - RUL Status changed to Critical (10.6 days)
+2025-04-04 00:17:34,114 - TBF 2 - INFO - RUL Status changed to Critical (11.7 days)
+2025-04-04 00:17:34,285 - TBF 4 - INFO - RUL Status changed to Warning (23.3 days)
+2025-04-04 00:17:41,359 - TBF 4 - INFO - RUL Status changed to Critical (10.9 days)
+2025-04-04 00:20:26,204 - TBF System - INFO - Initializing Streamlit session state...
+2025-04-04 00:20:26,903 - TBF System - INFO - Models loaded/trained successfully.
+2025-04-04 00:20:35,751 - TBF System - INFO - Monitoring Started by user.
+2025-04-04 00:24:20,538 - TBF System - INFO - Initializing Streamlit session state...
+2025-04-04 00:24:21,005 - TBF System - INFO - Models loaded/trained successfully.
+2025-04-04 00:24:28,633 - TBF System - INFO - Monitoring Started by user.
+2025-04-04 00:24:53,779 - TBF 1 - INFO - RUL Status changed to Warning (23.0 days)
+2025-04-04 00:25:01,825 - TBF 4 - INFO - RUL Status changed to Warning (23.5 days)
+2025-04-04 00:25:05,481 - TBF 1 - INFO - RUL Status changed to Critical (11.3 days)
+2025-04-04 00:25:16,159 - TBF 2 - INFO - RUL Status changed to Warning (23.4 days)
+2025-04-04 00:25:16,328 - TBF 4 - INFO - RUL Status changed to Critical (10.2 days)
+2025-04-04 00:25:18,576 - TBF 3 - INFO - RUL Status changed to Warning (23.1 days)
+2025-04-04 00:25:22,542 - TBF 2 - INFO - RUL Status changed to Critical (12.0 days)
+2025-04-04 00:25:25,717 - TBF 3 - INFO - RUL Status changed to Critical (11.5 days)
+2025-04-04 00:26:21,104 - TBF System - INFO - Monitoring Stopped by user.
+2025-04-04 00:32:05,131 - TBF System - INFO - Initializing Streamlit session state...
+2025-04-04 00:32:05,690 - TBF System - INFO - Models loaded/trained successfully.
+2025-04-04 00:32:14,237 - TBF System - INFO - Monitoring Started by user.
+2025-04-04 00:36:53,015 - TBF System - INFO - Initializing Streamlit session state...
+2025-04-04 00:36:53,658 - TBF System - INFO - Models loaded/trained successfully.
+2025-04-04 00:36:54,870 - TBF System - INFO - Initializing Streamlit session state...
+2025-04-04 00:36:55,204 - TBF System - INFO - Models loaded/trained successfully.
+2025-04-04 00:37:01,327 - TBF System - INFO - Monitoring Started by user.
+2025-04-04 00:37:10,033 - TBF System - INFO - Monitoring Stopped by user.
+2025-04-04 00:50:51,217 - TBF System - INFO - Initializing Dash App Resources...
+2025-04-04 00:50:51,368 - TBF System - INFO - Models loaded/trained successfully.
+2025-04-04 00:50:58,580 - TBF System - INFO - Monitoring Started by user.
+2025-04-04 00:51:16,339 - TBF System - INFO - Sim mode for Fan 1 set to Worst
+2025-04-04 00:51:16,678 - TBF 1 - INFO - RUL Status changed to Warning (23.1 days)
+2025-04-04 00:51:20,688 - TBF 1 - INFO - RUL Status changed to Critical (11.3 days)
+2025-04-04 00:52:18,179 - TBF System - INFO - Sim mode for Fan 2 set to Worst
+2025-04-04 00:52:18,742 - TBF 2 - INFO - RUL Status changed to Warning (23.5 days)
+2025-04-04 00:52:24,795 - TBF 2 - INFO - RUL Status changed to Critical (11.3 days)
+2025-04-04 00:52:58,454 - TBF System - INFO - Monitoring Stopped by user.
+2025-04-04 00:53:49,978 - TBF System - INFO - Dash is running on http://127.0.0.1:8050/
+
+2025-04-04 00:53:52,486 - TBF System - INFO - Initializing Dash App Resources...
+2025-04-04 00:53:52,592 - TBF System - INFO - Models loaded/trained successfully.
+2025-04-04 00:54:07,883 - TBF System - INFO - Monitoring Started by user.
+2025-04-04 00:54:35,278 - TBF System - INFO - Sim mode for Fan 1 set to Good
+2025-04-04 00:54:36,350 - TBF System - INFO - Sim mode for Fan 2 set to Good
+2025-04-04 00:54:37,349 - TBF System - INFO - Sim mode for Fan 3 set to Good
+2025-04-04 00:54:38,496 - TBF System - INFO - Sim mode for Fan 4 set to Good
+2025-04-04 00:54:46,659 - TBF System - INFO - Sim mode for Fan 1 set to Worst
+2025-04-04 00:54:47,976 - TBF 1 - INFO - RUL Status changed to Warning (23.3 days)
+2025-04-04 00:54:49,315 - TBF System - INFO - Sim mode for Fan 2 set to Worst
+2025-04-04 00:54:50,054 - TBF 2 - INFO - RUL Status changed to Warning (23.4 days)
+2025-04-04 00:54:50,740 - TBF System - INFO - Sim mode for Fan 3 set to Worst
+2025-04-04 00:54:51,907 - TBF System - INFO - Sim mode for Fan 4 set to Worst
+2025-04-04 00:54:51,994 - TBF 1 - INFO - RUL Status changed to Critical (12.4 days)
+2025-04-04 00:54:52,122 - TBF 3 - INFO - RUL Status changed to Warning (20.9 days)
+2025-04-04 00:54:52,190 - TBF 4 - INFO - RUL Status changed to Warning (22.9 days)
+2025-04-04 00:54:54,041 - TBF 2 - INFO - RUL Status changed to Critical (12.1 days)
+2025-04-04 00:54:56,123 - TBF 3 - INFO - RUL Status changed to Critical (11.2 days)
+2025-04-04 00:54:56,183 - TBF 4 - INFO - RUL Status changed to Critical (12.5 days)
+2025-04-04 00:56:35,016 - TBF System - INFO - Monitoring Stopped by user.
+2025-04-04 00:58:04,932 - TBF System - INFO - Dash is running on http://127.0.0.1:8050/
+
+2025-04-04 00:58:11,071 - TBF System - INFO - Initializing Dash App Resources...
+2025-04-04 00:58:11,323 - TBF System - INFO - Models loaded/trained successfully.
+2025-04-04 00:58:14,212 - TBF System - INFO - Monitoring Started by user.
+2025-04-04 00:58:21,829 - TBF System - INFO - Sim mode for Fan 1 set to Worst
+2025-04-04 00:58:22,310 - TBF 1 - INFO - RUL Status changed to Warning (21.3 days)
+2025-04-04 00:58:23,287 - TBF System - INFO - Sim mode for Fan 2 set to Good
+2025-04-04 00:58:24,306 - TBF System - INFO - Sim mode for Fan 3 set to Worst
+2025-04-04 00:58:24,456 - TBF 3 - INFO - RUL Status changed to Warning (23.5 days)
+2025-04-04 00:58:26,333 - TBF 1 - INFO - RUL Status changed to Critical (11.2 days)
+2025-04-04 00:58:30,451 - TBF 3 - INFO - RUL Status changed to Critical (10.8 days)
+2025-04-04 01:02:08,354 - TBF System - INFO - Dash is running on http://127.0.0.1:8050/
+
+2025-04-04 01:02:11,160 - TBF System - INFO - Initializing Dash App Resources...
+2025-04-04 01:02:11,287 - TBF System - INFO - Models loaded successfully.
+2025-04-04 01:02:18,031 - TBF System - INFO - Monitoring Started by user.
+2025-04-04 01:02:39,337 - TBF System - INFO - Sim mode for Fan 1 set to Good
+2025-04-04 01:02:41,413 - TBF System - INFO - Sim mode for Fan 2 set to Good
+2025-04-04 01:06:11,021 - TBF System - INFO - Dash is running on http://127.0.0.1:8050/
+
+2025-04-04 01:06:14,283 - TBF System - INFO - Initializing Dash App Resources...
+2025-04-04 01:06:14,423 - TBF System - INFO - Models loaded successfully.
+2025-04-04 01:06:22,951 - TBF System - INFO - Monitoring Started by user.
+2025-04-04 01:06:51,455 - TBF System - INFO - Sim mode for Fan 1 set to Good
+2025-04-04 01:06:54,412 - TBF System - INFO - Sim mode for Fan 1 set to Worst
+2025-04-04 01:06:55,086 - TBF 1 - INFO - RUL Status changed to Warning (21.9 days)
+2025-04-04 01:06:56,741 - TBF System - INFO - Sim mode for Fan 2 set to Worst
+2025-04-04 01:06:57,145 - TBF 2 - INFO - RUL Status changed to Warning (23.3 days)
+2025-04-04 01:06:57,883 - TBF System - INFO - Sim mode for Fan 3 set to Worst
+2025-04-04 01:06:59,085 - TBF 1 - INFO - RUL Status changed to Critical (10.7 days)
+2025-04-04 01:06:59,136 - TBF System - INFO - Sim mode for Fan 4 set to Worst
+2025-04-04 01:06:59,225 - TBF 3 - INFO - RUL Status changed to Warning (23.3 days)
+2025-04-04 01:06:59,294 - TBF 4 - INFO - RUL Status changed to Warning (23.4 days)
+2025-04-04 01:07:01,152 - TBF 2 - INFO - RUL Status changed to Critical (13.3 days)
+2025-04-04 01:07:03,233 - TBF 3 - INFO - RUL Status changed to Critical (12.5 days)
+2025-04-04 01:07:03,304 - TBF 4 - INFO - RUL Status changed to Critical (11.7 days)
+2025-04-04 01:08:35,845 - TBF System - INFO - Sim mode for Fan 1 set to Good
+2025-04-04 01:08:37,101 - TBF 1 - INFO - RUL Status changed to Normal (56.0 days)
+2025-04-04 01:08:43,745 - TBF System - INFO - Monitoring Stopped by user.
+2025-04-04 01:15:35,783 - TBF System - INFO - Dash is running on http://127.0.0.1:8050/
+
+2025-04-04 01:15:40,766 - TBF System - INFO - Initializing Dash App Resources...
+2025-04-04 01:15:40,953 - TBF System - INFO - Models loaded successfully.
+2025-04-04 01:15:43,893 - TBF System - INFO - Monitoring Started by user.
+2025-04-04 01:16:09,004 - TBF System - INFO - Monitoring Stopped by user.
+2025-04-04 01:19:48,213 - TBF System - INFO - Dash is running on http://127.0.0.1:8050/
+
+2025-04-04 01:19:53,179 - TBF System - INFO - Initializing Dash App Resources...
+2025-04-04 01:19:53,321 - TBF System - INFO - Models loaded successfully.
+2025-04-04 01:19:58,556 - TBF System - INFO - Monitoring Started by user.
+2025-04-04 01:20:15,127 - TBF System - INFO - Monitoring Stopped by user.
+2025-04-04 01:20:20,687 - TBF System - INFO - Monitoring Started by user.
+2025-04-04 01:20:28,346 - TBF System - INFO - Monitoring Stopped by user.
+2025-04-04 01:21:48,443 - TBF System - INFO - Monitoring Started by user.
+2025-04-04 01:21:54,667 - TBF System - INFO - Monitoring Stopped by user.
+2025-04-04 01:21:54,716 - TBF 2 - INFO - RUL Status changed to Normal (97.9 days)
+2025-04-04 01:21:54,801 - TBF 3 - INFO - RUL Status changed to Normal (91.5 days)
+2025-04-04 01:21:54,887 - TBF 4 - INFO - RUL Status changed to Normal (97.3 days)
+2025-04-04 01:24:58,045 - TBF System - INFO - Dash is running on http://127.0.0.1:8050/
+
+2025-04-04 01:25:02,942 - TBF System - INFO - Initializing Dash App Resources...
+2025-04-04 01:25:03,112 - TBF System - INFO - Models loaded successfully.
+2025-04-04 01:25:06,252 - TBF System - INFO - Monitoring Started by user.
+2025-04-04 01:25:20,514 - TBF System - INFO - Sim mode for Fan 1 set to Worst
+2025-04-04 01:25:21,394 - TBF System - INFO - Sim mode for Fan 2 set to Worst
+2025-04-04 01:25:22,355 - TBF 1 - INFO - RUL Status changed to Warning (23.0 days)
+2025-04-04 01:25:22,423 - TBF 2 - INFO - RUL Status changed to Warning (23.4 days)
+2025-04-04 01:25:22,427 - TBF System - INFO - Sim mode for Fan 3 set to Worst
+2025-04-04 01:25:23,541 - TBF System - INFO - Sim mode for Fan 4 set to Worst
+2025-04-04 01:25:24,506 - TBF 3 - INFO - RUL Status changed to Warning (23.0 days)
+2025-04-04 01:25:24,564 - TBF 4 - INFO - RUL Status changed to Warning (23.2 days)
+2025-04-04 01:25:26,362 - TBF 1 - INFO - RUL Status changed to Critical (11.8 days)
+2025-04-04 01:25:26,430 - TBF 2 - INFO - RUL Status changed to Critical (12.1 days)
+2025-04-04 01:25:28,479 - TBF 3 - INFO - RUL Status changed to Critical (10.8 days)
+2025-04-04 01:25:28,558 - TBF 4 - INFO - RUL Status changed to Critical (11.3 days)
+2025-04-04 01:28:31,909 - TBF System - INFO - Dash is running on http://127.0.0.1:8050/
+
+2025-04-04 01:28:36,538 - TBF System - INFO - Initializing Dash App Resources...
+2025-04-04 01:28:36,771 - TBF System - INFO - Models loaded successfully.
+2025-04-04 01:28:39,059 - TBF System - INFO - Monitoring Started by user.
+2025-04-04 01:28:44,562 - TBF System - INFO - Monitoring Stopped by user.
+2025-04-04 01:30:50,916 - TBF System - INFO - Dash is running on http://127.0.0.1:8050/
+
+2025-04-04 01:30:55,318 - TBF System - INFO - Initializing Dash App Resources...
+2025-04-04 01:30:55,503 - TBF System - INFO - Models loaded successfully.
+2025-04-04 01:30:57,478 - TBF System - INFO - Monitoring Started by user.
+2025-04-04 01:31:31,307 - TBF System - INFO - Sim mode for Fan 1 set to Worst
+2025-04-04 01:31:31,581 - TBF 1 - INFO - RUL Status changed to Warning (21.9 days)
+2025-04-04 01:31:33,826 - TBF System - INFO - Sim mode for Fan 2 set to Worst
+2025-04-04 01:31:35,595 - TBF 1 - INFO - RUL Status changed to Critical (10.3 days)
+2025-04-04 01:31:35,661 - TBF 2 - INFO - RUL Status changed to Warning (23.3 days)
+2025-04-04 01:31:36,673 - TBF System - INFO - Sim mode for Fan 3 set to Worst
+2025-04-04 01:31:37,760 - TBF 3 - INFO - RUL Status changed to Warning (23.0 days)
+2025-04-04 01:31:38,433 - TBF System - INFO - Sim mode for Fan 4 set to Worst
+2025-04-04 01:31:39,645 - TBF 2 - INFO - RUL Status changed to Critical (11.8 days)
+2025-04-04 01:31:39,758 - TBF 4 - INFO - RUL Status changed to Warning (23.6 days)
+2025-04-04 01:31:41,721 - TBF 3 - INFO - RUL Status changed to Critical (11.8 days)
+2025-04-04 01:31:45,767 - TBF 4 - INFO - RUL Status changed to Critical (10.6 days)
+2025-04-04 01:48:52,253 - TBF System - INFO - Initializing Dash App Resources...
+2025-04-04 01:48:52,366 - TBF System - INFO - Models loaded/trained successfully.
+2025-04-04 01:52:09,069 - TBF System - INFO - Initializing Dash App Resources...
+2025-04-04 01:52:09,163 - TBF System - INFO - Models loaded successfully.
+2025-04-04 01:53:51,889 - TBF System - INFO - Initializing Dash App Resources...
+2025-04-04 01:53:51,986 - TBF System - INFO - Models loaded successfully.
+2025-04-04 01:53:54,431 - TBF System - INFO - Initializing Dash App Resources...
+2025-04-04 01:53:54,519 - TBF System - INFO - Models loaded successfully.
+2025-04-04 01:57:50,571 - TBF System - INFO - Initializing Dash App Resources...
+2025-04-04 01:57:50,663 - TBF System - INFO - Models loaded successfully.
+2025-04-04 01:57:53,466 - TBF System - INFO - Initializing Dash App Resources...
+2025-04-04 01:57:53,559 - TBF System - INFO - Models loaded successfully.
+2025-04-04 01:58:03,898 - TBF System - INFO - Monitoring Started by user.
+2025-04-04 01:58:42,610 - TBF System - INFO - Sim mode for Fan 1 set to Good
+2025-04-04 01:58:47,170 - TBF System - INFO - Sim mode for Fan 2 set to Worst
+2025-04-04 01:58:48,050 - TBF 2 - INFO - RUL Status changed to Warning (23.5 days)
+2025-04-04 01:58:50,796 - TBF 2 - INFO - RUL Status changed to Critical (11.6 days)
+2025-04-04 01:58:51,690 - TBF System - INFO - Sim mode for Fan 3 set to Good
+2025-04-04 01:58:53,302 - TBF System - INFO - Sim mode for Fan 4 set to Worst
+2025-04-04 01:58:54,191 - TBF 4 - INFO - RUL Status changed to Warning (23.6 days)
+2025-04-04 01:58:56,184 - TBF 4 - INFO - RUL Status changed to Critical (11.1 days)
+2025-04-04 02:00:09,981 - TBF System - INFO - Monitoring Stopped by user.
+2025-04-04 02:00:12,226 - TBF System - INFO - Monitoring Started by user.
+2025-04-04 02:00:12,780 - TBF 2 - INFO - RUL Status changed to Critical (11.5 days)
+2025-04-04 02:00:12,903 - TBF 4 - INFO - RUL Status changed to Critical (11.4 days)
+2025-04-04 02:00:22,878 - TBF System - INFO - Sim mode for Fan 1 set to Worst
+2025-04-04 02:00:24,378 - TBF 1 - INFO - RUL Status changed to Warning (23.1 days)
+2025-04-04 02:00:24,912 - TBF System - INFO - Sim mode for Fan 3 set to Worst
+2025-04-04 02:00:26,486 - TBF 3 - INFO - RUL Status changed to Warning (23.5 days)
+2025-04-04 02:00:26,735 - TBF 1 - INFO - RUL Status changed to Critical (11.6 days)
+2025-04-04 02:00:28,506 - TBF 3 - INFO - RUL Status changed to Critical (12.1 days)
+2025-04-04 02:00:30,576 - TBF System - INFO - Monitoring Stopped by user.
+2025-04-04 02:16:18,314 - TBF System - INFO - Initializing Dash App Resources...
+2025-04-04 02:16:18,401 - TBF System - INFO - Models loaded successfully.
+2025-04-04 02:16:21,307 - TBF System - INFO - Initializing Dash App Resources...
+2025-04-04 02:16:21,401 - TBF System - INFO - Models loaded successfully.
+2025-04-04 02:16:34,142 - TBF System - INFO - Monitoring Started by user.
+2025-04-04 02:16:52,163 - TBF System - INFO - Sim mode for Fan 1 set to Worst
+2025-04-04 02:16:52,268 - TBF 1 - INFO - RUL Status changed to Warning (23.6 days)
+2025-04-04 02:16:53,939 - TBF System - INFO - Sim mode for Fan 2 set to Worst
+2025-04-04 02:16:54,315 - TBF 2 - INFO - RUL Status changed to Warning (23.0 days)
+2025-04-04 02:16:55,086 - TBF System - INFO - Sim mode for Fan 3 set to Worst
+2025-04-04 02:16:56,244 - TBF 1 - INFO - RUL Status changed to Critical (11.6 days)
+2025-04-04 02:16:56,359 - TBF 3 - INFO - RUL Status changed to Warning (23.7 days)
+2025-04-04 02:16:56,596 - TBF System - INFO - Sim mode for Fan 4 set to Worst
+2025-04-04 02:16:58,319 - TBF 2 - INFO - RUL Status changed to Critical (11.4 days)
+2025-04-04 02:16:58,444 - TBF 4 - INFO - RUL Status changed to Warning (23.2 days)
+2025-04-04 02:17:00,382 - TBF 3 - INFO - RUL Status changed to Critical (12.1 days)
+2025-04-04 02:17:02,440 - TBF 4 - INFO - RUL Status changed to Critical (14.1 days)
+2025-04-04 02:17:18,718 - TBF System - INFO - Monitoring Stopped by user.
+2025-04-04 02:54:40,160 - TBF System - INFO - Initializing Dash App Resources...
+2025-04-04 02:54:40,246 - TBF System - INFO - Models loaded successfully.
+2025-04-04 02:54:42,608 - TBF System - INFO - Initializing Dash App Resources...
+2025-04-04 02:54:42,709 - TBF System - INFO - Models loaded successfully.
+2025-04-04 02:55:15,478 - TBF System - INFO - Monitoring Started by user.
+2025-04-04 02:55:34,209 - TBF System - INFO - Sim mode for Fan 1 set to Worst
+2025-04-04 02:55:34,415 - TBF 1 - INFO - RUL Status changed to Warning (20.0 days)
+2025-04-04 02:55:34,454 - TBF 1 - INFO - RUL Status changed to Critical (11.4 days)
+2025-04-04 02:56:31,694 - TBF System - INFO - Sim mode for Fan 2 set to Worst
+2025-04-04 02:56:32,959 - TBF 2 - INFO - RUL Status changed to Warning (23.5 days)
+2025-04-04 02:56:33,155 - TBF System - INFO - Sim mode for Fan 3 set to Worst
+2025-04-04 02:56:33,704 - TBF 2 - INFO - RUL Status changed to Critical (10.9 days)
+2025-04-04 02:56:33,791 - TBF 3 - INFO - RUL Status changed to Warning (23.1 days)
+2025-04-04 02:56:35,144 - TBF 3 - INFO - RUL Status changed to Critical (10.3 days)
+2025-04-04 02:56:35,644 - TBF System - INFO - Sim mode for Fan 4 set to Worst
+2025-04-04 02:56:35,913 - TBF 4 - INFO - RUL Status changed to Warning (23.5 days)
+2025-04-04 02:56:37,398 - TBF 4 - INFO - RUL Status changed to Critical (11.2 days)
+2025-04-04 02:57:04,454 - TBF System - INFO - Initializing Dash App Resources...
+2025-04-04 02:57:04,558 - TBF System - INFO - Models loaded successfully.
+2025-04-04 02:57:10,905 - TBF System - INFO - Initializing Dash App Resources...
+2025-04-04 02:57:11,016 - TBF System - INFO - Models loaded successfully.
+2025-04-04 02:57:11,072 - TBF System - INFO - Monitoring Started by user.
+2025-04-04 02:57:16,068 - TBF System - INFO - Initializing Dash App Resources...
+2025-04-04 02:57:16,172 - TBF System - INFO - Models loaded successfully.
+2025-04-04 02:57:25,278 - TBF System - INFO - Monitoring Started by user.
+2025-04-04 02:57:37,163 - TBF System - INFO - Monitoring Stopped by user.
+2025-04-05 00:15:47,148 - TBF System - INFO - Initializing Dash App Resources...
+2025-04-05 00:15:47,295 - TBF System - INFO - Models loaded successfully.
+2025-04-05 00:15:49,678 - TBF System - INFO - Initializing Dash App Resources...
+2025-04-05 00:15:49,761 - TBF System - INFO - Models loaded successfully.
+2025-04-05 00:16:37,371 - TBF System - INFO - Monitoring Started by user.
+2025-04-05 00:17:52,109 - TBF System - INFO - Sim mode for Fan 1 set to Worst
+2025-04-05 00:17:53,489 - TBF 1 - INFO - RUL Status changed to Warning (23.0 days)
+2025-04-05 00:17:57,488 - TBF 1 - INFO - RUL Status changed to Critical (11.9 days)
+2025-04-05 00:18:13,200 - TBF System - INFO - Monitoring Stopped by user.
+2025-04-08 21:57:46,343 - TBF System - INFO - Initializing Dash App Resources...
+2025-04-08 21:57:46,500 - TBF System - INFO - Models loaded successfully.
+2025-04-08 21:57:49,646 - TBF System - INFO - Initializing Dash App Resources...
+2025-04-08 21:57:49,743 - TBF System - INFO - Models loaded successfully.
+2025-04-08 21:58:10,654 - TBF System - INFO - Monitoring Started by user.
+2025-04-08 21:58:30,180 - TBF System - INFO - Sim mode for Fan 1 set to Good
+2025-04-08 21:58:33,676 - TBF System - INFO - Sim mode for Fan 1 set to Worst
+2025-04-08 21:58:34,793 - TBF 1 - INFO - RUL Status changed to Warning (23.0 days)
+2025-04-08 21:58:38,820 - TBF 1 - INFO - RUL Status changed to Critical (11.2 days)
+2025-04-08 22:00:41,832 - TBF System - INFO - Sim mode for Fan 3 set to Worst
+2025-04-08 22:00:42,964 - TBF 3 - INFO - RUL Status changed to Warning (22.3 days)
+2025-04-08 22:00:46,042 - TBF System - INFO - Sim mode for Fan 4 set to Good
+2025-04-08 22:00:46,991 - TBF 3 - INFO - RUL Status changed to Critical (10.7 days)
+2025-04-08 22:01:01,307 - TBF System - INFO - Monitoring Stopped by user.
+2025-04-09 15:36:41,743 - TBF System - INFO - Initializing Dash App Resources...
+2025-04-09 15:36:41,933 - TBF System - INFO - Models loaded successfully.
+2025-04-09 15:36:44,903 - TBF System - INFO - Initializing Dash App Resources...
+2025-04-09 15:36:45,006 - TBF System - INFO - Models loaded successfully.
+2025-04-09 15:37:04,640 - TBF System - INFO - Monitoring Started by user.
+2025-04-09 15:37:36,167 - TBF System - INFO - Sim mode for Fan 1 set to Worst
+2025-04-09 15:37:36,786 - TBF 1 - INFO - RUL Status changed to Warning (23.5 days)
+2025-04-09 15:37:42,774 - TBF 1 - INFO - RUL Status changed to Critical (11.0 days)
+2025-04-09 15:37:43,822 - TBF System - INFO - Sim mode for Fan 3 set to Good
+2025-04-09 15:37:48,368 - TBF System - INFO - Sim mode for Fan 4 set to Worst
+2025-04-09 15:37:49,095 - TBF 4 - INFO - RUL Status changed to Warning (21.9 days)
+2025-04-09 15:37:53,155 - TBF 4 - INFO - RUL Status changed to Critical (10.3 days)
+2025-04-09 15:38:51,022 - TBF System - INFO - Monitoring Stopped by user.
+2025-04-09 15:38:51,074 - TBF 4 - INFO - RUL Status changed to Critical (11.0 days)
+2025-04-12 23:13:04,886 - TBF System - INFO - Initializing Dash App Resources...
+2025-04-12 23:13:05,027 - TBF System - INFO - Models loaded successfully.
+2025-04-12 23:13:07,559 - TBF System - INFO - Initializing Dash App Resources...
+2025-04-12 23:13:07,644 - TBF System - INFO - Models loaded successfully.
+2025-04-12 23:15:08,926 - TBF System - INFO - Monitoring Started by user.
+2025-04-12 23:15:30,615 - TBF System - INFO - Sim mode for Fan 1 set to Worst
+2025-04-12 23:15:31,041 - TBF 1 - INFO - RUL Status changed to Warning (23.5 days)
+2025-04-12 23:15:35,056 - TBF 1 - INFO - RUL Status changed to Critical (11.8 days)
+2025-04-12 23:15:43,308 - TBF System - INFO - Monitoring Stopped by user.
+2025-04-13 22:30:48,676 - TBF System - INFO - Initializing Dash App Resources...
+2025-04-13 22:30:48,849 - TBF System - INFO - Models loaded successfully.
+2025-04-13 22:30:51,754 - TBF System - INFO - Initializing Dash App Resources...
+2025-04-13 22:30:51,861 - TBF System - INFO - Models loaded successfully.
+2025-04-13 22:31:58,655 - TBF System - INFO - Monitoring Started by user.
+2025-04-13 22:32:42,931 - TBF System - INFO - Sim mode for Fan 1 set to Good
+2025-04-13 22:32:50,811 - TBF System - INFO - Sim mode for Fan 1 set to Worst
+2025-04-13 22:32:52,838 - TBF 1 - INFO - RUL Status changed to Warning (23.3 days)
+2025-04-13 22:32:56,887 - TBF 1 - INFO - RUL Status changed to Critical (12.3 days)
+2025-04-13 22:34:12,613 - TBF System - INFO - Sim mode for Fan 2 set to Worst
+2025-04-13 22:34:12,925 - TBF 2 - INFO - RUL Status changed to Warning (21.5 days)
+2025-04-13 22:34:16,881 - TBF 2 - INFO - RUL Status changed to Critical (11.2 days)
+2025-04-13 22:34:39,612 - TBF System - INFO - Sim mode for Fan 1 set to Random
+2025-04-13 22:34:40,821 - TBF 1 - INFO - RUL Status changed to Normal (59.5 days)
+2025-04-13 22:34:52,770 - TBF System - INFO - Sim mode for Fan 4 set to Worst
+2025-04-13 22:34:53,189 - TBF 4 - INFO - RUL Status changed to Warning (23.2 days)
+2025-04-13 22:34:57,085 - TBF 4 - INFO - RUL Status changed to Critical (10.7 days)
+2025-04-13 22:35:37,511 - TBF System - INFO - Monitoring Stopped by user.
